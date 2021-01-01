@@ -1,0 +1,29 @@
+.component-body-conatiner {
+    padding:30px;
+   
+}
+
+.custom-btn {
+    padding:10px;
+    border:none;
+    margin-left:2%;
+    margin-top:20px;
+    text-transform:uppercase;
+    width:80px;
+    font-size:0.9rem;
+    cursor:pointer;
+    outline:none;
+    background:#d3d3d3;
+}
+.add-btn{
+    
+    background-color:rgb(58, 185, 58);
+    color:white;
+    border:none;
+    width:135px;
+    height:45px;
+    padding:10px;
+    margin:35px;
+    font-style:bold;
+    
+}

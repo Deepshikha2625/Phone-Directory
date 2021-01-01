@@ -1,0 +1,66 @@
+.add{
+    background-color:rgb(58, 185, 58);
+    color:white;
+    border:none;
+   width:135px;
+   height:45px;
+   padding:10px;
+   margin:35px;
+   font-style:bold;
+}
+.name{
+    padding:50px;
+    font-size:1.5em;
+    color: #808080;
+    text-transform: uppercase;
+    font-weight:bold;
+    font-family: "Times New Roman", Times, serif;
+}
+.phn{
+    float:right;
+    margin-top:-3px;
+    padding-right:70%;
+    font-family: "Times New Roman", Times, serif;
+    background-color: rgba(255, 255, 255, 0.8);
+    font-size: 1.5rem;
+    font-weight:bold;
+    color: #808080;
+    text-transform: uppercase; 
+}
+.subscriberDetails{
+    padding:10px;
+    margin:10px;
+    word-wrap: break-word;
+}
+.nameofsub{
+    background-color: rgba(255, 255, 255, 0.8);
+    font-size: 1.15rem;
+    padding-left:30px;
+    font-weight:bold;
+   
+}
+
+ .phnofsub {
+    background-color: rgba(255, 255, 255, 0.8);
+    font-size: 1.15rem;
+    word-wrap: break-word;
+    float:right;
+    padding-right:70%;
+    margin-top:-3px;
+    font-weight:bold;
+    
+}
+.delete-btn{
+    background: #fa9c9c;
+    color: #000;
+    border:none;
+    height:3em;
+    width:8em;
+    text-transform:uppercase;
+    font-weight:bold;
+    position:absolute;
+    right: 850px;
+    margin-top:-10px;
+    
+    
+}

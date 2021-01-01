@@ -1,0 +1,37 @@
+.subscriber-form{
+    margin-top:30px;
+}
+.label-control {
+    color:#808088;
+    font-size:1.15rem;
+    margin-right:15px;
+}
+
+.input-control {
+    width:300px;
+    min-width:100px;
+    padding:10px 15px;
+    display:inline-block;
+    border:1px solid #ccc;
+    border-radius:5px;
+    box-sizing:border-box;
+    font-size:0.9rem;
+    outline:none;
+}
+
+.subscriber-info-container {
+    font-size:1rem;
+    margin-left:30px;
+    margin-bottom:20px;
+
+}
+
+.subscriber-to-add-heading {
+    color:#0a4f75;
+    font-weight:bold;
+
+}
+
+.subscriber-info {
+    color:#808088;
+}
